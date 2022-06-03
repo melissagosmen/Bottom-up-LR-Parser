@@ -1,6 +1,6 @@
 ## Bottom up LR Parser Features
 
-- The task of this project is to construct a bottom-up LR parser. This project used the following grammar and LR parse table.
+- The purpose of this project is to construct a bottom-up LR parser. This project used the following grammar and LR parse table.
 
 ##### Grammar
 
